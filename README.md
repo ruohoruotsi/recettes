@@ -16,7 +16,7 @@
 
 
 
-![Glass Pitcher][1]
+![pitcher][1] ![bb][2]
 
 
 
@@ -24,12 +24,13 @@
 
 Café         | Quantité      | Durée
 ------------ | ------------- | ------------
-![Resize icon][2] [Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) | 360 ml (1.5 tasse) dans 2 litres d'eau | 24h
-![Resize icon][2] [](https://bluebottlecoffee.com/store/giant-steps) | 360 ml (1.5 tasse) | 24h
-![Resize icon][3] [](http://www.caffevita.com/coffee) | 480 ml (2 tasse) | 24h
+Blue Bottle - [Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) | 360 ml (1.5 tasse)| 24h
+Blue Bottle - [Giant Steps](https://bluebottlecoffee.com/store/giant-steps) | 360 ml (1.5 tasse) | 20h
+Blue Bottle - [Beta Blend](https://bluebottlecoffee.com/releases/beta-blend) | 360 ml (1.5 tasse) | 24h
+Caffe Vita - [Bistro Blend](http://www.caffevita.com/coffee) | 480 ml (2 tasse) | 48h
 
 
 
-[1]: images/pichwet.png "pichet"
+[1]: images/pichet.png "pichet"
 [2]: images/bb.png "bb"
 [3]: images/vita.png "vita"
