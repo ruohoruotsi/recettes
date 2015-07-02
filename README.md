@@ -27,6 +27,8 @@ Café         | Quantité      | Durée
 Blue Bottle - [Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) | 360 ml (1.5 tasse)| 24h
 Blue Bottle - [Giant Steps](https://bluebottlecoffee.com/store/giant-steps) | 360 ml (1.5 tasse) | 20h
 Blue Bottle - [Beta Blend](https://bluebottlecoffee.com/releases/beta-blend) | 360 ml (1.5 tasse) | 24h
+Bicycle Coffee - [Medium Roast](http://bicyclecoffeeco.com/roasts/) | 360 ml (1.5 tasse) | 30h
+Bicycle Coffee - [Dark Roast](http://bicyclecoffeeco.com/roasts/)| 360 ml (1.5 tasse) | 24h
 Caffe Vita - [Bistro Blend](http://www.caffevita.com/coffee) | 480 ml (2 tasse) | 48h
 
 
