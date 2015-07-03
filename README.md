@@ -10,9 +10,11 @@
 
 #### La méthode
 
-* Melangez le café avec de l'eau filtré, bien froide, dans pichet de 2 litres pendant 24 à 36 heures. Pas besoin de surveillance pendant la durée. 
-* Filtrez les grains de cafe avec une toile à beurre et placez le café glacé au frigo. 
-* Melangez une moité de café avec une moité d'eau.
+* Mélangez le café avec de l'eau filtré, bien froide, dans un pichet de 2 litres
+* Remuez pendant 2 minutes
+* Laissez à température ambiante pendant 24 à 36 heures. Pas besoin de surveillance pendant cette durée
+* Filtrez les grains de cafe avec une toile à beurre et placez le café glacé au frigo
+* Mélangez une moité de café avec une moité d'eau
 
 
 
