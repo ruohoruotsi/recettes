@@ -26,6 +26,7 @@
 
 Café         | Quantité      | Durée
 ------------ | ------------- | ------------
+Coffee Roasters of Jamaica - [Blue Mountain](http://www.countrytraders.com/roasted-whole-beans.php) | 360 ml (1.5 tasse) | 24h
 Mukilteo - [Monorail Blend](http://mukilteocoffee.com/product/monorail-blend) | 360 ml (1.5 tasse) | 24h
 Blue Bottle - [Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) | 360 ml (1.5 tasse)| 24h
 Blue Bottle - [Giant Steps](https://bluebottlecoffee.com/store/giant-steps) | 360 ml (1.5 tasse) | 20h
